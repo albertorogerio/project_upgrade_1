@@ -1,1 +1,1 @@
-Configurações iniciais.
+Configurações iniciais efetuadas.
